@@ -1,7 +1,7 @@
 # Hello! 👋
 
 ## About Me 🌍
-Currently pursuing a degree in Systems Analysis and Development, I'm new to the field and have about 6 months of professional experience as an intern. During this time, I have been involved in automating repetitive tasks, diagnosing and resolving network issues, managing memory systems, and, last but not least, participating in website development.
+I'm from Brazil and currently studying Systems Analysis and Development. I'm new to the field and have about a year of professional experience as an intern with the Federal Police in Vilhena, Rondônia, Brazil. During this time, I have been involved in automating repetitive tasks, diagnosing and resolving network issues, managing memory systems, managing operating systems, and, last but not least, participating in website development.
 
 When I'm not programming, I enjoy gaming, watching series, spending time with family, and exercising. I'm always eager to learn news skills and solve problems calmly and with focus.
 
