@@ -9,9 +9,8 @@ When I'm not programming, I enjoy gaming, watching series, spending time with fa
 ### Languages & Framework
 - JavaScript (NodeJS, ExpressJS, NextJS)
 - Java
-- Python (Django, Flask)
+- Python (Django, Flask, Fastapi)
 - HTML5 & CSS3
-- 
 ### Infrastructure & DevOps
 - Docker
 - Kubernets
